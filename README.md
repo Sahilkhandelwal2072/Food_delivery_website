@@ -17,4 +17,14 @@ A fully responsive **frontend-only** food delivery website built with **React** 
 - 📦 React Icons – For icons and UI enhancements
 - 🔀 React Router – For navigation between pages
 
+##   Install dependencies
 
+- npm install i
+  
+##  Start development server
+
+- npm run dev
+  
+## 📸 Screenshots
+
+[img-alt](
